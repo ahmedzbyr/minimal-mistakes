@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : AHMED
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Zubair AHMED"
+description              : "Minimal Mistakes"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -62,7 +62,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : ahmedzbyr
 facebook:
   username               :
   app_id                 :
@@ -84,11 +84,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Zubair AHMED"
+  avatar           : "https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAs9AAAAJDgwNTc3ZmFhLTBkNDAtNGM4Zi04OWNlLWU5MzNmZmM5MWU2ZA.jpg"
+# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Biker and a wanna be Engineer"
+  location         : "Amsterdam, NL"
+  email            : "ahmedzbyr@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -97,11 +98,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "ahmedzbyr"
   gitlab           :
-  google_plus      :
+  google_plus      : "ahmedzbyr"
   keybase          :
-  instagram        :
+  instagram        : 
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -109,7 +110,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "ahmedzbyr"
   vine             :
   weibo            :
   xing             :
