@@ -1,10 +1,7 @@
 ---
-title: "Enable Authorization on HBase. "
-categories:
-  - Hadoop
-tags:
-  - hbase
-  - authorization
+title: Enable Authorization on HBase. 
+category: ['Hadoop']
+tags: ['hadoop', 'hbase', 'hadoop-config', 'hbase-config', 'security', 'authentication']
 ---
 
 Add this below tag to all the Master and Region Server.
@@ -54,9 +51,7 @@ For example:
  
 	hbase(main):004:0> quit
 
-### Helpful URLs.
 
-More Information can be found in this links. 
+[CDH4-Security-Guide](http://www.cloudera.com/content/cloudera/en/documentation/cdh4/v4-3-0/CDH4-Security-Guide/cdh4sg_topic_8_3.html)
 
-* [CDH4 Security Guide](http://www.cloudera.com/content/cloudera/en/documentation/cdh4/v4-3-0/CDH4-Security-Guide/cdh4sg_topic_8_3.html)
-* [Apache Mail Archives](http://mail-archives.apache.org/mod_mbox/hbase-user/201406.mbox/%3CCAOEq2C6KXB1q=tPNezPvTcrqFKrU29C4HkmjzCkfxvxYNQNcXw@mail.gmail.com%3E)
+[Apache Mail Archives](http://mail-archives.apache.org/mod_mbox/hbase-user/201406.mbox/%3CCAOEq2C6KXB1q=tPNezPvTcrqFKrU29C4HkmjzCkfxvxYNQNcXw@mail.gmail.com%3E)
