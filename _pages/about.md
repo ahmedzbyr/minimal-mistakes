@@ -1,11 +1,20 @@
 ---
 permalink: /about/
 title: "About"
-last_modified_at: 2018-01-30T11:22:24-05:00
+excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+layouts_gallery:
+  - url: /assets/images/mm-layout-splash.png
+    image_path: /assets/images/mm-layout-splash.png
+    alt: "splash layout example"
+  - url: /assets/images/mm-layout-single-meta.png
+    image_path: /assets/images/mm-layout-single-meta.png
+    alt: "single layout with comments and related posts"
+  - url: /assets/images/mm-layout-archive.png
+    image_path: /assets/images/mm-layout-archive.png
+    alt: "archive layout example"
+last_modified_at: 2018-01-10T11:22:24-05:00
 toc: true
 ---
-
-![M:](https://raw.githubusercontent.com/ahmedzbyr/Font-Awesome-SVG-PNG/master/black/png/16/phone-square.png) +31-6-8750-6688 \| ![E:](https://raw.githubusercontent.com/ahmedzbyr/Font-Awesome-SVG-PNG/master/black/png/16/address-card.png) ahmedzbyr@gmail.com \| ![L:](https://raw.githubusercontent.com/ahmedzbyr/Font-Awesome-SVG-PNG/master/black/png/16/globe.png) Amsterdam, Netherlands.
 
 ## Achievements & Experience
 
@@ -290,3 +299,9 @@ Linux, MontaVista Linux.
 * Porting linux kernel to TMS320C64 board.
 * Development and testing exception handlers.
 * Porting x-windows for davinci ARM board using ARM crosscompiler (ARM9TDMI).
+
+
+## Contact
+
+![M:](https://raw.githubusercontent.com/ahmedzbyr/Font-Awesome-SVG-PNG/master/black/png/16/phone-square.png) +31-6-8750-6688 \| ![E:](https://raw.githubusercontent.com/ahmedzbyr/Font-Awesome-SVG-PNG/master/black/png/16/address-card.png) ahmedzbyr@gmail.com \| ![L:](https://raw.githubusercontent.com/ahmedzbyr/Font-Awesome-SVG-PNG/master/black/png/16/globe.png) Amsterdam, Netherlands.
+
