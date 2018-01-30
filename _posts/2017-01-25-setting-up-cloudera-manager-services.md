@@ -2,6 +2,9 @@
 title: Setting Up Cloudera Manager Services Using Cloudera API [Part 1]
 category: ['Linux', 'Cloudera', 'Hadoop', 'Cloudera-Api']
 tags: ['linux', 'cloudera', 'hadoop', 'cloudera-api']
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
 ---
 
 
