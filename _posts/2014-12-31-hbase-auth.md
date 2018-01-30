@@ -1,10 +1,7 @@
 ---
 title: "Enable Authorization on HBase. "
-categories:
-  - Hadoop
-tags:
-  - hbase
-  - authorization
+categories: [ Hadoop ]
+tags: [ hbase, authorization ]
 ---
 
 Add this below tag to all the Master and Region Server.
