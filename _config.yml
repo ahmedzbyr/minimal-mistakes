@@ -99,10 +99,10 @@ author:
   facebook         :
   foursquare       :
   github           : "ahmedzbyr"
-  gitlab           :
+  gitlab           : "ahmedzbyr"
   google_plus      : "ahmedzbyr"
   keybase          :
-  instagram        : 
+  instagram        : "ahmedzbyr"
   lastfm           :
   linkedin         : "ahmedzbyr" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -184,7 +184,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Amsterdam # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
