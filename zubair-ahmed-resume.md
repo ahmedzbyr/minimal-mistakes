@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about-ahmedzbyr/
+permalink: /about/
 toc: true 
 toc_label: 'Contents' 
 toc_icon: 'cog'
