@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Setting Up HDFS Services Using Cloudera API [Part 3]
 category: ['Linux', 'Cloudera', 'Hadoop', 'Cloudera-Api', 'Zookeeper', 'Hdfs']
 tags: ['linux', 'cloudera', 'hadoop', 'cloudera-api', 'zookeeper', 'hdfs']

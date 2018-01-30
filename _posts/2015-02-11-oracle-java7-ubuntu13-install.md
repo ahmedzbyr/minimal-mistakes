@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Unable to locate package oracle-java7-installer - Ubuntu 13
 category: ['Linux', 'Ubuntu']
 tags: ['linux', 'ubuntu', 'java', 'jdk']

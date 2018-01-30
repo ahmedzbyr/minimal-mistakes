@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: VMware Workstation 10 Error `Not enough physical memory is available to power this virtual machine`
 category: ['Windows', 'Vmware']
 tags: ['windows', 'vmware', 'error', 'virtual-machine']

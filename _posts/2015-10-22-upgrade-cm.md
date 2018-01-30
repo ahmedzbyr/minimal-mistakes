@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Update Cloudera Manager to specific version [5.4.5]
 category: ['Linux', 'Hadoop']
 tags: ['linux', 'hadoop', 'upgrade', 'cloudera', 'manager']

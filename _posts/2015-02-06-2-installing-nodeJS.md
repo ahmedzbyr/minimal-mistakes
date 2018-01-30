@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Installing NodeJS on Centos 6.6.
 category: ['Linux', 'Webserver', 'Nodejs']
 tags: ['linux', 'webserver', 'nodejs', 'centos', 'rhel']

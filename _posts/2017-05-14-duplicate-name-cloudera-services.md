@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Cloudera Manager - Duplicate entry 'zookeeper' for key 'NAME'.
 category: ['Linux', 'Centos', 'Redhat', 'Cloudera', 'Kafka', 'Zookeeper', 'Cluster']
 tags: ['linux', 'centos', 'redhat', 'cloudera', 'kafka', 'zookeeper', 'cluster']

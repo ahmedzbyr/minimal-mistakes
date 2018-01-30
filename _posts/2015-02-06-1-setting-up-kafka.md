@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Installing KAFKA Single Node - Quick Start.
 category: ['Hadoop', 'Linux']
 tags: ['linux', 'hadoop', 'kafka', 'quick-start']

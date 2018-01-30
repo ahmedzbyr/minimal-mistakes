@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Installing SpagoBI 5.1 on Centos 6.5 -Tomcat 7 with MySQL 5.6.
 category: ['Linux', 'Spagobi', 'Bi']
 tags: ['linux', 'spagobi', 'bi', 'spago', 'centos', 'tomcat', 'mysql']

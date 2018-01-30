@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Zabbix Import File from iReasoning Export CSV
 category: ['Zabbix', 'Nagios', 'Monitoring']
 tags: ['zabbix', 'csv-processing', 'ireasoning', 'linux', 'mib', 'nagios', 'monitoring']

@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: LUKS Disk encryption for CentOS 6.6/RHEL 6
 category: ['Linux', 'Centos', 'Luks']
 tags: ['centos', 'linux', 'luks', 'disk', 'encryption']

@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Using `npm` behind a proxy
 category: ['Linux', 'Npm', 'Nodejs']
 tags: ['linux', 'npm', 'nodejs', 'proxy']

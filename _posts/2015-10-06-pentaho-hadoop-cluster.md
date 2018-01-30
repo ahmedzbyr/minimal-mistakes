@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Setting up Pentaho Data Integration 5.4.1 with Hadoop Cluster (Clouder Manager) 
 category: ['Linux', 'Hadoop', 'Pentaho']
 tags: ['linux', 'hadoop', 'pentaho', 'data-integration', 'cloudera', 'manager']

@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Custom Webserver/NodeJS sysctl.conf file.
 category: ['Linux', 'Webserver', 'Nodejs']
 tags: ['linux', 'webserver', 'nodejs', 'performance', 'tuning', 'kernel', 'sysctl']

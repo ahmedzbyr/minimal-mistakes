@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Ansible Playbook - Setup Hadoop CDH5 Using `tarball`. 
 category: ['Linux', 'Ansible', 'Hadoop']
 tags: ['linux', 'ansible', 'hadoop', 'tarball']

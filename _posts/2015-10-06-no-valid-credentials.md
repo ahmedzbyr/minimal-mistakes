@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: No valid credentials provided Mechanism level Failed to find any Kerberos tgt
 category: ['Kerberos', 'Hadoop']
 tags: ['hadoop', 'kerberos', 'error', 'krb5']

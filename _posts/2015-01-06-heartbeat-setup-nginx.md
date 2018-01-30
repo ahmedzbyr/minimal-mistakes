@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: HA Setup - `heartbeat` for `nginx`.
 category: ['Linux']
 tags: ['linux', 'heartbeat', 'nginx', 'http', 'httpd', 'replication', 'load-balancing', 'high-availability']

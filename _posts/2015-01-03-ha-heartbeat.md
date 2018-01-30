@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: httpd HA using Heartbeat.
 category: ['Linux']
 tags: ['linux', 'heartbeat', 'high-availability', 'httpd', 'http']

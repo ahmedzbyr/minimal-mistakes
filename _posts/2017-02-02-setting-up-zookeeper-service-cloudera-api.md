@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Setting Up Zookeeper Services Using Cloudera API [Part 2]
 category: ['Linux', 'Cloudera', 'Hadoop', 'Cloudera-Api', 'Zookeeper']
 tags: ['linux', 'cloudera', 'hadoop', 'cloudera-api', 'zookeeper']

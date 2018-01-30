@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Basic Testing On Hadoop Environment [Cloudera]
 category: ['Linux', 'Cloudera', 'Hadoop', 'Hue', 'Testing']
 tags: ['linux', 'cloudera', 'hadoop', 'testing']

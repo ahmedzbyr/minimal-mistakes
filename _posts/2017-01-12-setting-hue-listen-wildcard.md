@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Setting Hue to Listen on `0.0.0.0` [Cloudera]
 category: ['Linux', 'Cloudera', 'Hadoop', 'Hue']
 tags: ['linux', 'cloudera', 'hadoop']

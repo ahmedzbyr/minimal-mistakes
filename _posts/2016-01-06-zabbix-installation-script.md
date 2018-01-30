@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Zabbix Installation Script on Centos/Redhat 6.x
 category: ['Linux', 'Zabbix', 'Install', 'Snmp', 'Trapper', 'Nagios', 'Monitoring']
 tags: ['zabbix', 'snmp', 'trap', 'centos', 'linux', 'install', 'online', 'nagios', 'monitoring']

@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Remove Old Files using find Command
 category: ['Linux', 'Rhel', 'Ubuntu', 'Commands']
 tags: ['ubuntu', 'centos', 'linux', 'commands']

@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Package Installer for Cygwin [apt-cyg].
 category: ['Linux', 'Windows', 'Cygwin']
 tags: ['linux', 'windows', 'cygwin']

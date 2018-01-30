@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Zabbix History Table Clean Up
 category: ['Linux', 'Monitoring', 'Zabbix', 'Nagios', 'Nagiosxi']
 tags: ['linux', 'monitoring', 'zabbix', 'nagios', 'nagiosxi']

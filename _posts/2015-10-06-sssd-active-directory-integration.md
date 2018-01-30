@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Redhat Intergration with Active Directory using SSSD.
 category: ['Linux', 'Hadoop', 'Sssd']
 tags: ['linux', 'hadoop', 'sssd', 'active-directory', 'ad', 'ldap', 'rhel', 'centos', 'security']

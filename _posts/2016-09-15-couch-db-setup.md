@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Installing CouchDB on Ubuntu 14 LTS.
 category: ['Linux', 'Couchdb', 'Ubuntu']
 tags: ['linux', 'couchdb', 'ubuntu', 'nagios']

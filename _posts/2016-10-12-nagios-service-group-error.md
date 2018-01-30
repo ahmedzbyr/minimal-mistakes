@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Nagios - Service Group Summary ERROR 
 category: ['Linux', 'Monitoring', 'Zabbix', 'Nagios', 'Nagiosxi', 'Error']
 tags: ['linux', 'monitoring', 'zabbix', 'nagios', 'nagiosxi', 'error']

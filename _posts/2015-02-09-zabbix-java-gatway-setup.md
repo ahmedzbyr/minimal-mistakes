@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Installing `zabbix-java-gateway` on Centos 6.5
 category: ['Linux', 'Zabbix', 'Nagios', 'Monitoring']
 tags: ['zabbix', 'linux', 'java', 'zabbix-java-gateway', 'centos', 'rhel', 'nagios', 'monitoring']

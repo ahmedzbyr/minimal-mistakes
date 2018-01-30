@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Creating a two-node RHEL cluster with Virtual IP using CMAN and Pacemaker.
 category: ['Linux', 'Ha']
 tags: ['linux', 'ha', 'high-availability', 'cman', 'pacemaker', 'heartbeat', 'haproxy']

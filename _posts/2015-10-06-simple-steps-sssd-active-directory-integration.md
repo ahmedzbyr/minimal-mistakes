@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Simple Steps to Intergrate RHEL with Active Directory using SSSD. 
 category: ['Linux', 'Hadoop', 'Sssd']
 tags: ['linux', 'hadoop', 'sssd', 'ad', 'active-directory', 'rhel', 'centos', 'security']

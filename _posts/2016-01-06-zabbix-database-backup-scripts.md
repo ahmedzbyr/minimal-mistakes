@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Zabbix Database Backup Script for `postgres` and `mysql`.
 category: ['Linux', 'Zabbix', 'Install', 'Snmp', 'Trapper', 'Nagios', 'Monitoring']
 tags: ['zabbix', 'snmp', 'trap', 'centos', 'linux', 'backup', 'mysql', 'postgres', 'nagios', 'monitoring']

@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Bootstrap Windows - knife-windows - Chef
 category: ['Windows', 'Chef', 'Chef-Client']
 tags: ['windows', 'chef', 'chef-client']

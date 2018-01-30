@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Zabbix Installation 2.4 - CentOS 6.5
 category: ['Linux', 'Zabbix', 'Nagios', 'Monitoring']
 tags: ['zabbix', 'centos', 'nagios', 'monitoring']

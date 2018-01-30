@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Setting up Local HBase on Top of HDFS.
 category: ['Hadoop']
 tags: ['hadoop', 'hdfs', 'hbase', 'hadoop-config', 'hbase-config']

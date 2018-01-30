@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Installing Zabbix Version 2.4 Offline (Zabbix Server without Internet).
 category: ['Linux', 'Zabbix', 'Snmp', 'Trapper', 'Nagios', 'Monitoring']
 tags: ['zabbix', 'snmp', 'trap', 'centos', 'linux', 'offline', 'nagios', 'monitoring']

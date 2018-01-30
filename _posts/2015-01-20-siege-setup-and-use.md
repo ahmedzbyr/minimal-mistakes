@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Setup Seige on Centos 6.5, Kernel 2.6, CPU x86_64
 category: ['Linux', 'Testing']
 tags: ['load-testing', 'performance', 'seige', 'tsung', 'testing']

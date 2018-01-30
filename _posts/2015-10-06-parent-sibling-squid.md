@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Installing `squid` as a sibling to an already existing Parent `squid`.
 category: ['Linux', 'Squid']
 tags: ['linux', 'squid', 'proxy']

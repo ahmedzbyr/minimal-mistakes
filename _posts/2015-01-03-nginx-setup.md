@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Setting up `NGINX` for `HTTP` load balancing.
 category: ['Linux']
 tags: ['linux', 'nginx', 'http', 'httpd', 'load-balancing', 'high-availability']

@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Check Port on Remote Server CentOS 6.6/RHEL 6
 category: ['Linux', 'Centos', 'Nc']
 tags: ['centos', 'linux', 'nc']

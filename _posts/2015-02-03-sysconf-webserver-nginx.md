@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Creating server parameter sysctl.conf for WebServers / FTP Server.
 category: ['Linux', 'Webserver']
 tags: ['linux', 'webserver', 'ftp-server', 'kernel', 'sysctl', 'performance', 'tuning']

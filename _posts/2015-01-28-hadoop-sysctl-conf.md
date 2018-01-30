@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Hadoop `sysctl.conf` parameters.
 category: ['Hadoop', 'Linux']
 tags: ['hadoop', 'linux', 'kernel', 'sysctl', 'performance', 'tuning']

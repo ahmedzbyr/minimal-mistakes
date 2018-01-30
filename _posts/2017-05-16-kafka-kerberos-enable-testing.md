@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Kafka Kerberos Enable and Testing.
 category: ['Linux', 'Centos', 'Redhat', 'Cloudera', 'Kafka', 'Kerberos', 'Cluster']
 tags: ['linux', 'centos', 'redhat', 'cloudera', 'kafka', 'kerberos', 'cluster']

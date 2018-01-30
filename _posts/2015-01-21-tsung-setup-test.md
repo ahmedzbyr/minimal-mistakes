@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Installing and Initial setup of Tsung Load Testing CentOS
 category: ['Linux', 'Testing']
 tags: ['load-testing', 'performance', 'seige', 'tsung', 'testing']

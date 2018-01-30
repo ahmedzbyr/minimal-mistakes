@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: knife Quick Reference
 category: ['Centos', 'Nagios', 'Monitoring']
 tags: ['centos', 'rhel', 'nagios', 'opensource', 'monitoring']

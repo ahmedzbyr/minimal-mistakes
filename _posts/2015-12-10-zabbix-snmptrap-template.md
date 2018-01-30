@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Zabbix Template Creation using CSV file.
 category: ['Linux', 'Zabbix', 'Snmp', 'Trapper', 'Nagios', 'Monitoring']
 tags: ['zabbix', 'snmp', 'trap', 'centos', 'linux', 'offline', 'nagios', 'monitoring']

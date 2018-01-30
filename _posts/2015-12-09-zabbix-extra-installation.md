@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Installing SNMP Builder using `zabbix-extra` on Zabbix Version 2.4.
 category: ['Linux', 'Zabbix', 'Snmp', 'Trapper', 'Nagios', 'Monitoring']
 tags: ['zabbix', 'snmp', 'trap', 'centos', 'linux', 'nagios', 'monitoring']

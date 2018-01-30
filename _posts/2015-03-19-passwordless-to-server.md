@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Creating a passwordless entry on Centos 6.5.
 category: ['Linux']
 tags: ['linux', 'centos', 'rhel']

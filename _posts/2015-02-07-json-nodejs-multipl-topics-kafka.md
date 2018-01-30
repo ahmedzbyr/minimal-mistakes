@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Sending JSON to NodeJS to Multiple Topics in Kafka - using kafka-node.
 category: ['Linux', 'Webserver', 'Nodejs']
 tags: ['linux', 'webserver', 'nodejs', 'kafka-node', 'json', 'kafka']

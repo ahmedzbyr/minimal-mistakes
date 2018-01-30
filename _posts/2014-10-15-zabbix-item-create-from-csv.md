@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Zabbix Item Creation using OID and Name CSV files.
 category: ['Zabbix', 'Nagios', 'Monitoring']
 tags: ['zabbix', 'csv-processing', 'ireasoning', 'linux', 'mib', 'python', 'nagios', 'monitoring']

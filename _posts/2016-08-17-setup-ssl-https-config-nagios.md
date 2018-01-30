@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Setting up ssl https On Nagios XI Server
 category: ['Linux', 'Centos', 'Nagios', 'Nagiosxi', 'Ssl', 'Https', 'Monitoring']
 tags: ['centos', 'linux', 'nagios', 'nagiosxi', 'ssl', 'https', 'monitoring']

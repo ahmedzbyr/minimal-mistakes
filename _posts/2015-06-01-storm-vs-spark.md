@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Streaming Data Processing - Storm Vs Spark.
 category: ['Linux', 'Storm', 'Spark']
 tags: ['linux', 'storm', 'spark', 'data-processing']

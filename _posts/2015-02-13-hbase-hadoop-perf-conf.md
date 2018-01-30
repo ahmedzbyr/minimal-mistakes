@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Performance Tuning HBase and Hadoop.
 category: ['Hadoop', 'Hbase', 'Linux']
 tags: ['linux', 'hadoop', 'hbase', 'performance-tuning']

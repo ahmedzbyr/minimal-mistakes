@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Installing `python 2.7.x` on Centos 6.5/6.6
 category: ['Linux', 'Python', 'Centos', 'Install']
 tags: ['python', 'centos', 'linux', 'install']

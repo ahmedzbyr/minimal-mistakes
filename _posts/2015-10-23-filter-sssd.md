@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title:  Access Filter Setup with SSSD
 category: ['Linux', 'Hadoop', 'Sssd']
 tags: ['linux', 'hadoop', 'sssd', 'access-filter', 'rhel', 'centos', 'security']

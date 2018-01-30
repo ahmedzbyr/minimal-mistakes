@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Integrating NODEJS and Kafka
 category: ['Linux', 'Webserver', 'Nodejs']
 tags: ['linux', 'webserver', 'nodejs', 'kafka-node', 'kafka', 'integrate']

@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Cloudera Manager Setup Using Chef [CentOS 6.6]
 category: ['Centos', 'Chef', 'Chefdk', 'Cloudera-Manager', 'Cdh']
 tags: ['centos', 'chef', 'chefdk', 'cloudera-manager', 'cdh']

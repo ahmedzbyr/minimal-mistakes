@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: SFTP Data Collector
 category: ['Linux']
 tags: ['sftp', 'ftp', 'data-collector', 'linux', 'python', 'script', 'github']

@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: KVM Installation on CentOS 6.x.
 category: ['Linux', 'Kvm']
 tags: ['linux', 'kvm', 'centos', 'rhel', 'virtual-machine', 'vmware']

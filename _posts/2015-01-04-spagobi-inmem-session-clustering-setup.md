@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: SpagoBI Tomcat Clustering Using `mod_jk` and `httpd` on Centos - In-Memory Session Replication.
 category: ['Linux']
 tags: ['linux', 'spago-bi', 'bi', 'tomcat', 'http', 'httpd', 'replication', 'load-balancing', 'high-availability']

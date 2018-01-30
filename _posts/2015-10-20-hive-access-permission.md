@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Getting started with Hive with Kerberos.
 category: ['Linux', 'Hadoop', 'Hive']
 tags: ['linux', 'hadoop', 'hive', 'kerberos', 'ad', 'ldap', 'cloudera', 'security']

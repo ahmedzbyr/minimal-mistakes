@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Ansible Playbook - Setup Storm Cluster.  
 category: ['Hadoop', 'Linux', 'Storm', 'Ansible']
 tags: ['linux', 'ansible', 'storm', 'hadoop', 'zookeeper']

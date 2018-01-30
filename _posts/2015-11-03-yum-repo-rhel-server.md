@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: YUM Repository Creation on HTTPD Web Server.
 category: ['Linux', 'Hadoop', 'Httpd']
 tags: ['linux', 'hadoop', 'webserver', 'http', 'httpd', 'yum', 'rhel', 'centos']

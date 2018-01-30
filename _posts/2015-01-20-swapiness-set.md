@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: How To Configure Swappiness
 category: ['Hadoop', 'Linux']
 tags: ['hadoop', 'linux', 'swappiness', 'swap', 'sysctl', 'config']

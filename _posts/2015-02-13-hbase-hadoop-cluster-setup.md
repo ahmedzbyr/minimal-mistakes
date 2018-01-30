@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Setting you Hbase Cluster on Hadoop (YARN). Ubuntu 12.04 LTS
 category: ['Hadoop', 'Linux', 'Ubuntu']
 tags: ['hadoop', 'hbase', 'linux', 'ubuntu', 'yarn']

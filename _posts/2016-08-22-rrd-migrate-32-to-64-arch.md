@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Moving RRD file from 32bit to 64bit Architecture
 category: ['Linux', 'Rhel', 'Ubuntu', 'Rrd', 'Nagios']
 tags: ['ubuntu', 'centos', 'linux', 'rrd', 'nagios']

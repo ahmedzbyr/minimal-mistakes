@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Windows Testing Using Kitchen Chef
 category: ['Windows', 'Ubuntu', 'Chef', 'Kitchen', 'Testing']
 tags: ['windows', 'ubuntu', 'chef', 'kitchen', 'testing']

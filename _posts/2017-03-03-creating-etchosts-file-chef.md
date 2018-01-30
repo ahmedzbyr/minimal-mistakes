@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Creating /etc/hosts file in Chef.
 category: ['Linux', 'Centos', 'Redhat', 'Chef', 'Hadoop', 'Cluster']
 tags: ['linux', 'centos', 'redhat', 'chef', 'hadoop', 'cluster']

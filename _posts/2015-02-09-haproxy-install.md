@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: How to setup HAProxy
 category: ['Linux', 'Ha']
 tags: ['linux', 'ha', 'load-balancing', 'high-avaliability', 'proxy', 'nginx', 'haproxy']

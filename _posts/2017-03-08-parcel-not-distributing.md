@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Parcel Not Distributing Cloudera CDH.
 category: ['Linux', 'Centos', 'Redhat', 'Cloudera', 'Hadoop', 'Cluster']
 tags: ['linux', 'centos', 'redhat', 'cloudera', 'hadoop', 'cluster']

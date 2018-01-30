@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: sudo Permission On Server - effective uid is not 0, is sudo installed setuid root?
 category: ['Linux']
 tags: ['linux', 'setuid', 'root', 'permissions']

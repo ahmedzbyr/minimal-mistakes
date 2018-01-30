@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Issues - Monitoring MongoDB using Nagios XI.
 category: ['Linux', 'Mongodb', 'Ubuntu', 'Nagios', 'Nagiosxi']
 tags: ['linux', 'mongo', 'mongodb', 'ubuntu', 'nagios', 'nagiosxi']

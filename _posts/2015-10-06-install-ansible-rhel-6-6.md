@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Installing `ansible` on RHEL 6.6.
 category: ['Hadoop', 'Linux', 'Ansible']
 tags: ['linux', 'ansible', 'hadoop', 'rhel', 'centos']

@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Zabbix Hadoop Monitoring.
 category: ['Zabbix', 'Monitoring', 'Nagios', 'Monitoring']
 tags: ['zabbix', 'csv-processing', 'linux', 'mib', 'python', 'hadoop', 'xml', 'nagios', 'monitoring']

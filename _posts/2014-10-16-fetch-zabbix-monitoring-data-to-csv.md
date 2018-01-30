@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Fetch Monitoring Data from Item to CSV file.
 category: ['Zabbix', 'Nagios', 'Monitoring']
 tags: ['zabbix', 'csv-processing', 'ireasoning', 'linux', 'mib', 'python', 'nagios', 'monitoring']

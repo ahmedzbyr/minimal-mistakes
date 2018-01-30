@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Simple Script to create a user on centos 6.5
 category: ['Linux']
 tags: ['linux', 'create', 'user', 'centos', 'rhel']

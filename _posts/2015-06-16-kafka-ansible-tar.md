@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Ansible Playbook - Setup Kafka Cluster.  
 category: ['Hadoop', 'Linux', 'Kafka', 'Ansible']
 tags: ['linux', 'ansible', 'kafka', 'hadoop', 'zookeeper']

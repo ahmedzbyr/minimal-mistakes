@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Mysql Database Disk Usage.
 category: ['Linux', 'Mysql', 'Centos']
 tags: ['mysql', 'centos', 'linux']

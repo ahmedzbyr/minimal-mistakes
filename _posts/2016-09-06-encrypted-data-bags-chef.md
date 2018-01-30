@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Encrypted Data Bags - Chef
 category: ['Chef', 'Data-Bags', 'Linux', 'Ubuntu', 'Centos', 'Kitchen']
 tags: ['chef', 'linux', 'ubuntu', 'centos', 'kitchen']

@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Explain - System Security Services Daemon (SSSD) Config.
 category: ['Linux', 'Sssd']
 tags: ['sssd', 'linux', 'pam', 'sssd-configuration', 'auth', 'authentication', 'security']

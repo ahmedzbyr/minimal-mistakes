@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Setting up SNMP Trapper for Zabbix.
 category: ['Linux', 'Zabbix', 'Snmp', 'Trapper']
 tags: ['zabbix', 'snmp', 'trap', 'centos', 'linux']

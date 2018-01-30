@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Enable Kerberos Using Cloudera API.
 category: ['Linux', 'Cloudera', 'Hadoop', 'Cloudera-Api', 'Kerberos']
 tags: ['linux', 'cloudera', 'hadoop', 'cloudera-api', 'kerberos']

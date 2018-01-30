@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Setup/Configuration Nagios XI on Centos6.6
 category: ['Centos', 'Nagios', 'Nagiosxi', 'Monitoring']
 tags: ['centos', 'rhel', 'nagios', 'nagiosxi', 'monitoring']

@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Update hosts file in Windows 8
 category: ['Windows', 'Hostfile']
 tags: ['windows']

@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Performance Tuning for `nginx`
 category: ['Linux']
 tags: ['linux', 'nginx', 'performance', 'tuning', 'load-balancing']

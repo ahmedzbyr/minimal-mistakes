@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Getting Started with Cloudera API
 category: ['Linux', 'Cloudera', 'Hadoop', 'Cloudera-Api']
 tags: ['linux', 'cloudera', 'hadoop', 'cloudera-api']

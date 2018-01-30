@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Changing Timezone in Ubuntu server.
 category: ['Linux', 'Ubuntu']
 tags: ['linux', 'ubuntu', 'timezone']

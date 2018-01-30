@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Setup and Configure NFS Mounts on Linux Server
 category: ['Linux']
 tags: ['linux', 'nfs', 'mount']

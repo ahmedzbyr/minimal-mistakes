@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Standalone Chef Server / Workstation / Client Setup on CentOS 6
 category: ['Linux', 'Centos', 'Chef', 'Chefdk']
 tags: ['centos', 'linux', 'chef', 'chefdk']

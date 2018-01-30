@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Setting up Tomcat Cluster for SpagoBI 5.1.
 category: ['Linux']
 tags: ['linux', 'spago', 'bi', 'tomcat', 'http', 'spago-bi']

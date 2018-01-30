@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Chef Workstation Setup on Windows Machine.
 category: ['Windows', 'Chef', 'Chefdk']
 tags: ['windows', 'chef', 'chefdk']

@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Creating a large file in Windows / Linux
 category: ['Centos', 'Rhel', 'Windows']
 tags: ['centos', 'windows']

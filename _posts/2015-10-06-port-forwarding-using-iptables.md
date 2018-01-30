@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Setting `iptables` - `Port` forwarding from one interface to another.
 category: ['Linux', 'Iptables']
 tags: ['linux', 'iptables', 'port-forwarding', 'interface', 'network']

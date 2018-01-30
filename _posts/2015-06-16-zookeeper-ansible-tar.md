@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Ansible Playbook - Setup Zookeeper Using `tarball`.
 category: ['Hadoop', 'Linux', 'Ansible']
 tags: ['linux', 'ansible', 'hadoop', 'zookeeper']

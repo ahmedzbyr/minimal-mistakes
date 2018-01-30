@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: RPM Command Cheat Sheet
 category: ['Centos', 'Rhel', 'Rpms']
 tags: ['centos', 'rhel', 'rpms']

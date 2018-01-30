@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Creating a Multi-node Cassandra Cluster on Centos 6.5.
 category: ['Hadoop', 'Linux']
 tags: ['hadoop', 'linux', 'cassandra', 'centos', 'rhel']

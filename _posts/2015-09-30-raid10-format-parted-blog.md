@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Mounting RAID10 using `parted`.
 category: ['Linux', 'Raid']
 tags: ['linux', 'gparted', 'parted', 'mount', 'raid']

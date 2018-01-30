@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Creating Virtual Interface and Assign Multiple IP Addresses.	
 category: ['Linux']
 tags: ['linux', 'vip', 'network', 'multiple-ip']

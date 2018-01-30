@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Send KPI Data to Zabbix from XML KPI File
 category: ['Zabbix', 'Nagios', 'Monitoring']
 tags: ['zabbix', 'xml-processing', 'linux', 'mib', 'python', 'zbxsend', 'nagios', 'monitoring']

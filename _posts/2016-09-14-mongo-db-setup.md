@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Installing MongoDB on Ubuntu 14 LTS.
 category: ['Linux', 'Mongodb', 'Ubuntu']
 tags: ['linux', 'mongo', 'mongodb', 'ubuntu', 'nagios']

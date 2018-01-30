@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Interface Forwarding - from `eth1` to `eth0` on `EDGE` node.
 category: ['Hadoop', 'Linux']
 tags: ['linux', 'hadoop', 'interface', 'network']

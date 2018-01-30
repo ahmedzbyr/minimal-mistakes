@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Migrating Nagios XI to a New Server on Centos6.6
 category: ['Centos', 'Nagiosxi', 'Monitoring']
 tags: ['centos', 'rhel', 'nagiosxi', 'nagios', 'opensource', 'monitoring']

@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Creating Documents Using pandoc
 category: ['Linux', 'Centos', 'Documents']
 tags: ['centos', 'linux', 'win', 'documents']

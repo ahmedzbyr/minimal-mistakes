@@ -1,4 +1,7 @@
 ---
+toc: true 
+toc_label: 'Contents' 
+toc_icon: 'cog'
 title: Setting SUN Java for Ubuntu.
 category: ['Linux']
 tags: ['linux', 'install-java', 'java', 'ubuntu', 'jdk']
