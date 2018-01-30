@@ -8,8 +8,6 @@ toc_label: 'Contents'
 toc_icon: 'cog'
 ---
 
-![M:](https://raw.githubusercontent.com/ahmedzbyr/Font-Awesome-SVG-PNG/master/black/png/24/phone-square.png) +31-6-8750-6688 \| ![E:](https://raw.githubusercontent.com/ahmedzbyr/Font-Awesome-SVG-PNG/master/black/png/24/address-card.png) ahmedzbyr@gmail.com \| ![L:](https://raw.githubusercontent.com/ahmedzbyr/Font-Awesome-SVG-PNG/master/black/png/24/globe.png) Amsterdam, Netherlands.
-
 ## Achievements & Experience
 
 * Have experience in big-data, hadoop security, network acceleration products, router, ASN gateway and networking relat-ed projects. 
@@ -293,3 +291,10 @@ Linux, MontaVista Linux.
 * Porting linux kernel to TMS320C64 board.
 * Development and testing exception handlers.
 * Porting x-windows for davinci ARM board using ARM crosscompiler (ARM9TDMI).
+
+## Contact
+
+![M:](https://raw.githubusercontent.com/ahmedzbyr/Font-Awesome-SVG-PNG/master/black/png/24/phone-square.png) +31-6-8750-6688
+![E:](https://raw.githubusercontent.com/ahmedzbyr/Font-Awesome-SVG-PNG/master/black/png/24/address-card.png) ahmedzbyr@gmail.com 
+![L:](https://raw.githubusercontent.com/ahmedzbyr/Font-Awesome-SVG-PNG/master/black/png/24/globe.png) Amsterdam, Netherlands.
+
