@@ -294,7 +294,7 @@ Linux, MontaVista Linux.
 
 ## Contact
 
-![M:](https://raw.githubusercontent.com/ahmedzbyr/Font-Awesome-SVG-PNG/master/black/png/24/phone-square.png) +31-6-8750-6688
-![E:](https://raw.githubusercontent.com/ahmedzbyr/Font-Awesome-SVG-PNG/master/black/png/24/address-card.png) ahmedzbyr@gmail.com 
-![L:](https://raw.githubusercontent.com/ahmedzbyr/Font-Awesome-SVG-PNG/master/black/png/24/globe.png) Amsterdam, Netherlands.
+![M:](https://raw.githubusercontent.com/ahmedzbyr/Font-Awesome-SVG-PNG/master/black/png/24/phone-square.png) `+31-6-8750-6688`
+![E:](https://raw.githubusercontent.com/ahmedzbyr/Font-Awesome-SVG-PNG/master/black/png/24/address-card.png) `ahmedzbyr@gmail.com` 
+![L:](https://raw.githubusercontent.com/ahmedzbyr/Font-Awesome-SVG-PNG/master/black/png/24/globe.png) `Amsterdam, NL`
 
