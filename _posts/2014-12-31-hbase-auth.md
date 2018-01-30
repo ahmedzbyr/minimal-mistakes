@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Enable Authorization on HBase. 
-category: hadoop
-pdf: true
-tags: hadoop hbase hadoop-config hbase-config security authentication
+title: "Enable Authorization on HBase. "
+categories:
+  - Hadoop
+tags:
+  - hbase
+  - authorization
 ---
 
 Add this below tag to all the Master and Region Server.
